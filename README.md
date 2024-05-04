@@ -15,6 +15,10 @@ PyPassGen is a simple password generator built using Python's Tkinter library, d
 3. Click on the "Copy to Clipboard" button to copy the generated password.
 4. Use the "Exit" button to close the application.
 
+## Compiler Design Integration
+
+This project, while not directly related to compiler design, incorporates principles commonly found in compiler construction, such as lexical analysis, parsing, and error handling. The input validation process parallels lexical analysis, where user input is parsed and validated to ensure it conforms to certain rules. Error handling mechanisms mimic those found in compilers, providing informative error messages when input does not adhere to expected patterns.
+
 ## Requirements
 
 - Python 3.x
